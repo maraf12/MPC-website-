@@ -1,8 +1,10 @@
+-- exported file from phpmy admin 
+-- try to import this file in phpmyadmin 
 -- phpMyAdmin SQL Dump
 -- version 5.1.1
 -- https://www.phpmyadmin.net/
 --
--- Hôte : 127.0.0.1
+-- Hôte : 127.0.0.1 (local host )
 -- Généré le : ven. 17 déc. 2021 à 19:53
 -- Version du serveur : 10.4.21-MariaDB
 -- Version de PHP : 7.3.31
