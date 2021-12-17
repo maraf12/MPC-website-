@@ -8,6 +8,7 @@
   * [Frameworks and Libraries](#Frameworks-and-Libraries)
   * [database](#databse)
   * [dbms](#dbms)
+*[details](#details) 
 * [The Team](#the-team)
 
 ## Features
@@ -43,6 +44,29 @@ phpMyAdmin 4.5.1
 ```
 JQuery v3.2.1
 ```
+##details : 
+> sign up page :
+![signed up](https://user-images.githubusercontent.com/80293557/146613528-6b6a540f-e5a1-4b83-a38d-d116cda6a073.jpeg)
+
+> login page 
+![log in](https://user-images.githubusercontent.com/80293557/146613579-afbbca82-5e44-4556-a489-0a3cf6d63a76.jpeg)
+
+> user profile :
+![user profile](https://user-images.githubusercontent.com/80293557/146613611-24890827-baf2-4573-a9bf-bdd64634f763.jpeg)
+
+>home page ( search for answers or question posting by another users )
+ ![home](https://user-images.githubusercontent.com/80293557/146613670-092bbacf-ae7a-4962-8b4c-a8834770cd57.PNG)
+  
+> ask question ( question must be define in a specific category ) 
+![Capture d’écran (127)](https://user-images.githubusercontent.com/80293557/146613871-d89a3495-7f94-450f-9729-ac5180664171.png)
+
+
+> categorie area :
+![true cat](https://user-images.githubusercontent.com/80293557/146613938-2039035f-f9ab-4c1a-a9cb-5fe9c67e87aa.PNG)
+
+> discussion area ( question / answers ) 
+![question by categorie](https://user-images.githubusercontent.com/80293557/146614124-327e19b3-497a-4c45-8ced-2479b247abd1.jpeg)
+
 
 ## The Team
 Marwa maarouf : https://github.com/maraf12 |
