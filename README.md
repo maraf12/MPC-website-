@@ -6,14 +6,12 @@
   * [Languages](#Languages)
   * [Development Environment](#Development-Environment)
   * [Frameworks and Libraries](#Frameworks-and-Libraries)
-* [Details](#details)
 * [The Team](#the-team)
 
 ## Features
 * [Login/Registration and User Authentication](#Login-Registration-and-User-Authentication)
 * [User Profile System](#user-profile-system)
 * [Forum system](#management-systems)
-* [Security](#security)
 ## Components
 
 #### Languages
