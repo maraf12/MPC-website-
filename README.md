@@ -65,7 +65,7 @@ JQuery v3.2.1
 ![true cat](https://user-images.githubusercontent.com/80293557/146613938-2039035f-f9ab-4c1a-a9cb-5fe9c67e87aa.PNG)
 
 > discussion area ( question / answers ) 
-![question by categorie](https://user-images.githubusercontent.com/80293557/146614124-327e19b3-497a-4c45-8ced-2479b247abd1.jpeg)
+![cat test](https://user-images.githubusercontent.com/80293557/146614246-18a2568e-2b0d-45df-bd83-9d88c65fad8e.PNG)
 
 
 ## The Team
