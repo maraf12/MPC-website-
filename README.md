@@ -6,6 +6,8 @@
   * [Languages](#Languages)
   * [Development Environment](#Development-Environment)
   * [Frameworks and Libraries](#Frameworks-and-Libraries)
+  * [database](#databse)
+  * [dbms](#dbms)
 * [The Team](#the-team)
 
 ## Features
@@ -43,7 +45,7 @@ JQuery v3.2.1
 ```
 
 ## The Team
-Marwa maarouf : https://github.com/maraf12
-rajaa hilmi : https://github.com/rajaahilmi
-salwa mounji :https://github.com/salso12
+Marwa maarouf : https://github.com/maraf12 |
+rajaa hilmi : https://github.com/rajaahilmi|
+salwa mounji :https://github.com/salso12|
 
