@@ -46,6 +46,6 @@ JQuery v3.2.1
 
 ## The Team
 Marwa maarouf : https://github.com/maraf12 |
-rajaa hilmi : https://github.com/rajaahilmi|
-salwa mounji :https://github.com/salso12|
+rajaa hilmi : https://github.com/rajaahilmi |
+salwa mounji :https://github.com/salso12  |
 
