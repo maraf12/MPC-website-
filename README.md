@@ -61,7 +61,7 @@ JQuery v3.2.1
 ![Capture d’écran (127)](https://user-images.githubusercontent.com/80293557/146613871-d89a3495-7f94-450f-9729-ac5180664171.png)
 
 
-> categorie area :
+> categories area :
 ![true cat](https://user-images.githubusercontent.com/80293557/146613938-2039035f-f9ab-4c1a-a9cb-5fe9c67e87aa.PNG)
 
 > discussion area ( question / answers ) 
