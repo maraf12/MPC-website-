@@ -8,6 +8,7 @@
   * [Frameworks and Libraries](#Frameworks-and-Libraries)
   * [database](#databse)
   * [dbms](#dbms)
+ 
 *[details](#details) 
 * [The Team](#the-team)
 
@@ -44,7 +45,9 @@ phpMyAdmin 4.5.1
 ```
 JQuery v3.2.1
 ```
+
 ##details : 
+
 > sign up page :
 ![signed up](https://user-images.githubusercontent.com/80293557/146613528-6b6a540f-e5a1-4b83-a38d-d116cda6a073.jpeg)
 
